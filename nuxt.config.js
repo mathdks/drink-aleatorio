@@ -17,7 +17,10 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Descubra um drink totalmente aleatório para alegrar o seu dia. As receitas não possuem modo de preparo, então, teste até ficar bom!' },
+      { hid: 'keywords', name: 'keywords', content: 'drink aleatório, receita de drinks, drinks alcoólicos' },
+      { hid: 'ogTitle', name: 'og:title', content: 'Drink Aleatório' },
+      { hid: 'ogDescription', name: 'og:description', content: 'Descubra um drink totalmente aleatório para alegrar o seu dia. As receitas não possuem modo de preparo, então, teste até ficar bom!' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [

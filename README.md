@@ -2,6 +2,17 @@
 
 [Veja aqui](https://mathdks.github.io/drink-aleatorio/)
 
+## O que foi realizado
+
+- Consulta a uma API externa
+- Tratamento da resposta da API
+- Possibilidade de compartilhamento via WhatsApp
+- Desenvolvimento de componentes reutilizáveis
+
+## O que falta ser feito
+
+- Tradução da resposta da API para português
+
 ## Build Setup
 
 ```bash
